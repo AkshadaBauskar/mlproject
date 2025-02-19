@@ -1,0 +1,6 @@
+1 - Setup GitHub (Repo)
+  a) new env
+  b) mini project structure (setup.py)
+  c) requirements.txt
+
+2. Src folder and build the package
