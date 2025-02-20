@@ -6,4 +6,5 @@ numpy==1.26.4
 catboost==1.2.7
 xgboost==2.1.4
 dill
+Flask
 #-e .
